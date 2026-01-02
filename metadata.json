@@ -1,0 +1,7 @@
+{
+  "name": "Dolu Veri Madencisi AI",
+  "description": "B2B Lead Generation, Gümrük İstihbaratı ve Harita Kazıma için profesyonel OSINT aracı.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
